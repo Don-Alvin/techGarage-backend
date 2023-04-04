@@ -1,2 +1,2 @@
-const allowedOrigins = ["techgarageshop.netlify.app"];
+const allowedOrigins = ["https://techgarageshop.netlify.app"];
 module.exports = allowedOrigins;
